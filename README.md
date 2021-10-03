@@ -31,7 +31,7 @@ Fields that will be enter by the user
 From above input the system will generate total hours of week
 
 
-eqation: Total hours for week = No of Working days *  No of working hours per day
+Eqation: Total hours for week = No of Working days *  No of working hours per day
 
 
 English             6
