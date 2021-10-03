@@ -35,29 +35,30 @@ eqation: Total hours for week = No of Working days *  No of working hours per da
 
 
 English             6
------------------   -------------
+
 Science             6
------------------   -------------
+
 Maths               4
------------------   -------------
+
 
 
 The total hours of subject must be equal to 'Total hours for week'.
 
 
-after entering all subject's hours system enables "Generate" button. On click Generate button it will create a time-table from above entered information
+After entering all subject's hours system enables "Generate" button. On click Generate button it will create a time-table from above entered information
 
 
 Total Columns = No of Working days
+
 Total Rows = No of subjects per day
 
 
-place the above subjects dynamically in the table as per the entered hours of each subject.
+Place the above subjects dynamically in the table as per the entered hours of each subject.
 
-	Day1  Day2  Day3  Day4  Day5
 
-S1	M2    G2    E2    S2	E2
-
-S2	E2    M2    G2    S2    S2
-
+Table | Day1 | Day2 | Day3 | Day4 | 
+--- | --- | --- | --- |--- |
+Subject1 | M2 | G2 | E2 | S2 | E2
+--- | --- | --- | --- |--- |
+Subject2 | E2 | M2 | G2 | S2 | S2
 
