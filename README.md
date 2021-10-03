@@ -59,6 +59,5 @@ Place the above subjects dynamically in the table as per the entered hours of ea
 Table | Day1 | Day2 | Day3 | Day4 | 
 --- | --- | --- | --- |--- |
 Subject1 | M2 | G2 | E2 | S2 | E2
---- | --- | --- | --- |--- |
 Subject2 | E2 | M2 | G2 | S2 | S2
 
